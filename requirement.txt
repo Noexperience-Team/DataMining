@@ -1,12 +1,12 @@
 seaborn
 skimage
-numpy
 ipywidgets
 scikit-learn
 opencv-contrib-python==4.2.0.34
 opencv-python-headless
 scipy
 pillow
-pandas
+pandas==1.0.0
+numpy==1.17.4
 matplotlib
 
