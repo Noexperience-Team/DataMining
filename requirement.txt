@@ -1,13 +1,14 @@
 seaborn
-skimage
 ipywidgets
-scikit-learn
-scikit-image
+scikit-image[data] >= 0.18
 opencv-contrib-python==4.2.0.34
 opencv-python-headless
 scipy
 pillow
 pandas==1.0.0
-numpy==1.17.4
-matplotlib
-
+numpy >= 1.12
+scipy >= 1.0
+matplotlib >= 2.1
+notebook >= 4.0
+scikit-learn >= 0.18
+jupyter-book >= 0.10.2
