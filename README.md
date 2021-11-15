@@ -1,6 +1,6 @@
 # DM
 Data mining TP
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Noexperience-Team/DataMining/253ef166b8d264b3875919f990c0db5e6a8eacd9)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Noexperience-Team/DataMining/HEAD)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
